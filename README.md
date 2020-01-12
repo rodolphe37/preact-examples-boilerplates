@@ -15,7 +15,7 @@ Now open your editor and start editing! For most templates, the best place to st
 ## For more informations about Preact:
 ```javascript
  is here = () => {
-      https://preactjs.com/ , 
-      https://preactjs.com/cli/getting-started
+      (https://preactjs.com/) , 
+      (https://preactjs.com/cli/getting-started)
  }
  ```
