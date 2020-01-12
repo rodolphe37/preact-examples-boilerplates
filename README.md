@@ -13,9 +13,8 @@ npm start
 Now open your editor and start editing! For most templates, the best place to start is src/index.js or src/components/app/index.js.
 
 ## For more informations about Preact:
-```javascript
+
  is here = () => {
       (https://preactjs.com/) , 
       (https://preactjs.com/cli/getting-started)
  }
- ```
